@@ -26,13 +26,13 @@
     "firebase": "^5.3.0",
     "lodash": "^4.17.11",
     "react": "16.3.1",
-    "react-native": "~0.59.0",
+    "react-native": "~0.60.0",
     "react-native-communications": "^2.2.1",
     "react-native-router-flux": "^4.0.0",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
-    "snyk": "^1.147.3"
+    "snyk": "^1.192.0"
   },
   "snyk": true
 }
